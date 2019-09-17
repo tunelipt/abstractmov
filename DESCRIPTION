@@ -1,0 +1,10 @@
+Package: abstractmov
+Version: 0.1
+Date: 2019-09-12
+Title: Interface genérica abstrata para movimentadores
+Author: Paulo Jabardo [aut, cre]
+Maintainer: Paulo Jabardo <pjabardo@ipt.br>
+Description: Crias as funções genéricas base para movimentadores usados no túnel de vento do IPT.
+License: MIT
+Encoding: UTF-8
+RoxygenNote: 6.1.1
